@@ -1,4 +1,4 @@
-# Measure-The_Distance
+# Measure-The-Distance
 
 Implementation of the system to measure the distance using ultrasonic sensor HC-SR04
 
